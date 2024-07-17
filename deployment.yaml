@@ -15,6 +15,6 @@ spec:
         app: tomcat-app
     spec:
       containers:
-      - image: docker.io/bergwelten/gitops:e21d156229411844d5bbd88eaa42b0699f0df359
+      - image: docker.io/bergwelten/gitops:9ffbc851d290a0627b8540d86253077513a39103
         name: tomcat-container
 
